@@ -1,0 +1,28 @@
+# ========================
+# Environment files
+# ========================
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# ========================
+# Node
+# ========================
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+
+# ========================
+# OS
+# ========================
+.DS_Store

@@ -1,0 +1,6 @@
+C:\Users\ayush\Desktop\Kisan Mitra-3\Kisan Mitra\backend\services\enricher.py:9: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  self.ddgs = DDGS()
+Enriching PM Vishwakarma Yojana via Web Search...
+
+--- Enrichment Result ---
+❌ Failed or skipped enrichment.
