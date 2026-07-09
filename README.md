@@ -325,6 +325,4 @@ Information Technology Engineering Student
 
 ---
 
-# 📄 License
 
-This project was developed for educational and hackathon purposes.
