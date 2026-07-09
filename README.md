@@ -317,12 +317,6 @@ Coming Soon
 
 ---
 
-# 👨‍💻 Developed By
 
-**Ayush Bhunya**
-
-Information Technology Engineering Student
-
----
 
 
